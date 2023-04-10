@@ -12,3 +12,6 @@
 
 ## Faculty Section
 <img src = "https://github.com/fitsumM12/E-Learning/blob/main/images/faculty%20dashboard.png">
+
+# For More
+Reach me out through available option from my profile.
