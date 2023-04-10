@@ -1,0 +1,25 @@
+  <div id="EmailField" class=" f1 text-center btn-lg"></div>
+  <div id="MobileField" class="f1 text-center btn-lg"></div>
+  <script type="text/JavaScript">
+function EmailField() {
+    // First create a DIV element.
+	var emailfield = document.createElement('div');
+
+    // Then add the content (a new input box) of the element.
+	emailfield.innerHTML = "<input type='text' id='email' name='email' placeholder='enter email'>";
+
+    // Finally put it where it is supposed to appear.
+	document.getElementById("EmailField").appendChild(emailfield);
+}
+
+function MobileField() {
+    // First create a DIV element.
+	var mobilefield = document.createElement('div');
+
+    // Then add the content (a new input box) of the element.
+	mobilefield.innerHTML = "<input type='text' id='email' name='email' placeholder='entermobile'>";
+
+    // Finally put it where it is supposed to appear.
+	document.getElementById("MobileField").appendChild(mobilefield);
+}
+</script>

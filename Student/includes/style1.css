@@ -1,0 +1,44 @@
+.fm {
+    width: 500px;
+    margin: auto;
+    display: block;
+    padding: 20px;
+}
+
+.fmg {
+    margin: 10px;
+    padding-top: 22px;
+    font-size: 22px;
+    color: lightblue;
+    text-align: left;
+}
+
+thead {
+    color: orange;
+    padding-top: 2px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #f2c3f2;
+}
+
+.user {
+    text-align: left;
+    margin-left: 22px;
+    margin-right: 22px;
+    background-color: #4CAF50;
+    color: white;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.frm {
+    margin: auto;
+    width: 50%;
+}
+
+tr {
+    background-color: skyblue;
+}
